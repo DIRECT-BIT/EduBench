@@ -10,6 +10,9 @@
 # Table of Contents
 - [Overview](#overview)
 - [Framework](#framework)
+- [Quick Start](#Quick-Start)
+  - [Dataset](#Dataset)
+  - [Model](#Model)
 - [Dataset Construction](#dataset-construction)
   - [Evaluation Metrics Design](#evaluation-metrics-design)
   - [Dataset Generation](#Dataset-Generation)
@@ -43,6 +46,20 @@ Moreover, through knowledge distillation technology 🔬, we enabled smaller mod
   <br>
   <strong>The left part illustrates our data curation process; the middle part presents our three main evaluation principles and our exploration of the consistency between large language models and human judgments; the right part demonstrates how our data enhances the performance of small models.</strong>
 </div>
+
+# Quick Start
+
+## Dataset
+
+Model evaluation data can be directly obtained through the following link:  
+[Model Annotated Data](https://huggingface.co/datasets/DirectionAI/EduBench) 
+
+If you need to obtain the human-annotated data for EduBench, please fill out the table below and send it to directionai@163.com  
+[Human Annotated Data](https://1drv.ms/x/c/b1bbd011a3bb6457/EQzDBJxEPHFBmq91RoejDr8BnJ7qw7Ffbs27qJtirSYleQ?e=GirULe)
+
+## Model 
+
+[Model Link](https://huggingface.co/DirectionAI/EDU-Qwen2.5-7B) 
 
 # Dataset Construction
 
