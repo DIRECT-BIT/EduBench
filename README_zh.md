@@ -10,6 +10,9 @@
 # 目录
 - [概述](#概述)
 - [框架](#框架)
+- [快速开始](#快速开始)
+  -  [数据集](#数据集)
+  -  [模型](#模型)
 - [数据集构建](#数据集构建)
   - [评估指标设计](#评估指标设计)
   - [数据集生成](#数据集生成)
@@ -48,6 +51,17 @@
 </div>
 
 ---
+
+# 快速开始
+
+## 数据集
+
+如果需要获取EduBench的人工标注数据，请填写下表并发送至 directionai@163.com  
+[数据申请](https://1drv.ms/x/c/b1bbd011a3bb6457/EQzDBJxEPHFBmq91RoejDr8BnJ7qw7Ffbs27qJtirSYleQ?e=GirULe)
+
+## 模型   
+
+[模型链接](https://huggingface.co/DirectionAI/EDU-Qwen2.5-7B) 
 # 数据集构建
 
 我们首先根据服务对象的不同，将教育场景分为以下两类：
