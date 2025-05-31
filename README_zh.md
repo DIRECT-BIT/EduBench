@@ -56,8 +56,11 @@
 
 ## 数据集
 
+模型评估数据可以通过下面链接直接获取：  
+[模型标注数据](https://huggingface.co/datasets/DirectionAI/EduBench)   
+
 如果需要获取EduBench的人工标注数据，请填写下表并发送至 directionai@163.com  
-[数据申请](https://1drv.ms/x/c/b1bbd011a3bb6457/EQzDBJxEPHFBmq91RoejDr8BnJ7qw7Ffbs27qJtirSYleQ?e=GirULe)
+[人工标注数据](https://1drv.ms/x/c/b1bbd011a3bb6457/EQzDBJxEPHFBmq91RoejDr8BnJ7qw7Ffbs27qJtirSYleQ?e=GirULe)
 
 ## 模型   
 
