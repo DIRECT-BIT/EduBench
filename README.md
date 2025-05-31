@@ -59,7 +59,7 @@ If you need to obtain the human-annotated data for EduBench, please fill out the
 
 ## Model 
 
-[Model Link](https://huggingface.co/DirectionAI/EDU-Qwen2.5-7B) 
+[Model](https://huggingface.co/DirectionAI/EDU-Qwen2.5-7B) 
 
 # Dataset Construction
 
